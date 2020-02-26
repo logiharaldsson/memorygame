@@ -1,2 +1,0 @@
-# memorygame
-React Memory Game
